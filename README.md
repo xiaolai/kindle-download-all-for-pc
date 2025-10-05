@@ -55,5 +55,4 @@ The script logs each title as it moves through the list, invoking the `context-m
 - **Context menu doesn’t appear** – Increase `MENU_APPEAR_TIMEOUT` and verify the Kindle window has focus.
 - **Downloads start partway through the list** – Use `--start-from` with the desired index or manually select the correct starting book before running.
 
-Feel free to adjust the script for your workflows; contributions and further automation ideas are welcome!
-\nTested with Kindle for PC version 2.8.0 (70980), which is compatible with Epubor Ultimate 3.0.16.508 for post-download processing.
+Tested with Kindle for PC version 2.8.0 (70980), which is compatible with Epubor Ultimate 3.0.16.508 for post-download processing.
